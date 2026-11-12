@@ -1,0 +1,9 @@
+.git
+.agents
+.codex
+.env*
+node_modules
+docs
+README.md
+assets/imagens/Logo Instituto Ponto da Praia.png
+assets/imagens/Fachada do Instituto Ponto da Praia.png

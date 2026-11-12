@@ -1,0 +1,11 @@
+# Arquivos locais e temporários
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.log
+.env
+.env.*
+!.env.example
+.vercel/
+node_modules/
+__pycache__/
